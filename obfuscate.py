@@ -15,7 +15,7 @@ SPECIAL_CHARS_MAPPING = {
     "9": "_9",
     "0": "_0",
     " ": "space",
-    ".": "point",
+    ".": "dot",
     "-": "dash",
     ",": "comma",
     ";": "semicolon",
